@@ -2,3 +2,5 @@
 Pneumonia Detection  from Chest X-Rays
 
 The code has been compiled and run in Google Colab. The code can be accessed [here](https://colab.research.google.com/drive/1twCRhGrpm8YipfEQUXrUcDNRNsQgqYth?usp=sharing)
+
+To Replicate it in your own Google Colab follow the given steps
